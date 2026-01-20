@@ -257,7 +257,7 @@ const Layout = () => {
 
       {/* Footer */}
       <footer className="mt-10 py-4 text-center text-xs text-gray-500">
-        Developed by <span className="font-medium">Nihal Singh and Developer 2</span>
+        Developed by <span className="font-medium">Nihal Singh</span>
       </footer>
     </>
   );
