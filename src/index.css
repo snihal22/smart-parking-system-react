@@ -1,0 +1,33 @@
+@import 'tailwindcss';
+
+button {
+    cursor: pointer;
+}
+
+@import "tailwindcss";
+
+/* IIT Mandi brand overrides */
+.bg-blue-900 {
+  background-color: #0b3c5d;
+}
+.text-blue-900 {
+  color: #0b3c5d;
+}
+.text-blue-700 {
+  color: #0e4d83;
+}
+
+/* FIX native select dropdown in dark mode */
+select option {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+html, body {
+  height: 100%;
+  overflow-x: hidden;
+}
+
+/* body {
+  overflow-y: hidden;
+} */
